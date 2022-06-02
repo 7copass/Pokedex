@@ -6,7 +6,7 @@
 + JAVASCRIPT
 + EXPRESS
 
-#### Deploy: https://dashboard.heroku.com/apps/pokedex7copas/deploy/github
+#### Deploy: https://pokedex7copas.herokuapp.com/
 
 ## Orientações:
 
