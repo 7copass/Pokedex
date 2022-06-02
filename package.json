@@ -1,0 +1,25 @@
+{
+  "name": "landingpageblue",
+  "version": "1.0.0",
+  "description": "pokedex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7copass/landingPageBlue.git"
+  },
+  "author": "Victor Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7copass/landingPageBlue/issues"
+  },
+  "homepage": "https://github.com/7copass/landingPageBlue#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

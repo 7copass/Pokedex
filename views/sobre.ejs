@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/css/styleSobre.css">
+    <title>Sobre o pokémon</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <img
+            src="http://www.pokemongobrasil.com/wp-content/uploads/2016/08/pokebola-go.png"
+            alt="pokebola"
+          />
+        </li>
+        <li>
+          <h1><a href="/sobre/:id">Pokédex</a></h1>
+        </li>
+      </ul>
+    </nav>
+
+    
+    
+    <section id="sobre">
+        <div id="titulo">
+            <h1>Sobre o <%=pokedex[id].nome%></h1>
+        </div>
+      
+     <div id="img-pokemon">
+       
+      <img src="<%=pokedex[id].imagem%>" alt="">
+    </div>
+     
+    <div id="infos">
+      <p><strong>Tipo:</strong><%=pokedex[id].tipo%></p>
+      <p><strong>Altura:</strong><%=pokedex[id].altura%></p>
+      <p><strong>Peso:</strong><%=pokedex[id].peso%></p>
+      <p><strong>Habilidade:</strong><%=pokedex[id].habilidade%></p>
+      <p><strong>Descrição:</strong><%=pokedex[id].descricao%></p>
+      
+    </div>
+
+    </section>
+  </body>
+</html>
