@@ -6,7 +6,7 @@
 + JAVASCRIPT
 + EXPRESS
 
-#### Deploy: https://projeto-pokedex-blueedtech.herokuapp.com/
+#### Deploy: https://dashboard.heroku.com/apps/pokedex7copas/deploy/github
 
 ## Orientações:
 
