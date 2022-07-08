@@ -1,6 +1,6 @@
 <h1>Projeto Pokedéx<h1>
  
-#### Projeto desenvolvido no curso de Formação FullStack, ultilizando as tecnologias:
+#### Projeto desenvolvido no curso de Formação FullStack, utilizando as tecnologias:
 + HTML
 + CSS
 + JAVASCRIPT
